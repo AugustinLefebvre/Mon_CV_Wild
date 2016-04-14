@@ -1,0 +1,110 @@
+body
+{
+	background-color: #C5E3F6;
+}
+
+header
+{
+	background-color: #80C1E5;
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	font-weight: bolder;
+	font-size: 23px;
+}
+
+#container
+{
+	background-color: #80C1E5;
+	height: 650px;
+	padding-top: 10px;
+	border-radius: 5px;
+}
+
+#left-box
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #59A6D1;
+	float: left;
+	width: 23%;
+	height: 600px;
+	margin-left:15%;
+	padding-left:1%;
+	border-radius: 5px;
+	color: white;
+}
+img
+{
+	height: 150px;
+	border-radius: 5px;
+}
+
+li
+{
+	font-size: 13px;
+}
+.langues
+{
+	list-style-type: square;
+}
+
+#right-box
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #59A6D1;
+	width :43%;
+	height: 600px;
+	float: right;
+	margin-right:15%;
+	border-radius: 5px;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+#experiences-box
+{
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.experience
+{
+	background-color: #59A6D1;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top:3px;
+}
+
+#studies-box
+{
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.study
+{
+	background-color: #59A6D1;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 3px;
+}
+
+footer
+{
+	background-color: #80C1E5;
+	float: bottom;
+	margin: -10px;
+	margin-top: 63px;
+	position: fixed;
+	width: 100%;
+	height: 20px;
+}
